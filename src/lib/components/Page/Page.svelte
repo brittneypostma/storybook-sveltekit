@@ -1,6 +1,6 @@
 <script>
   import './page.css'
-  import Header from '../Header/Header.svelte'
+  import Header from '$components/Header/Header.svelte'
 
   import { createEventDispatcher } from 'svelte'
 
