@@ -24,8 +24,5 @@
     "svelte-loader": "^3.1.2",
     "svelte-preprocess": "^4.10.1"
   },
-  "type": "module",
-  "dependencies": {
-    "@storybook/addon-postcss": "^2.0.0"
-  }
+  "type": "module"
 }
