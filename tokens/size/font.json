@@ -1,0 +1,22 @@
+{
+  "size": {
+    "font": {
+      "sm": {
+        "value": "{size.300}",
+        "comment": "the small size of the font"
+      },
+      "md": {
+        "value": "{size.400}",
+        "comment": "the medium size of the font"
+      },
+      "lg": {
+        "value": "{size.700}",
+        "comment": "the large size of the font"
+      },
+      "base": {
+        "value": "{size.font.md.value}",
+        "comment": "the base size of the font"
+      }
+    }
+  }
+}

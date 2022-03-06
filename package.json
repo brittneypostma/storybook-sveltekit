@@ -7,7 +7,8 @@
     "package": "svelte-kit package",
     "preview": "svelte-kit preview",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "tokens": "style-dictionary build"
   },
   "devDependencies": {
     "@babel/core": "^7.16.7",
@@ -20,9 +21,11 @@
     "@sveltejs/kit": "next",
     "autoprefixer": "^10.4.2",
     "babel-loader": "^8.2.3",
+    "style-dictionary": "^3.7.0",
     "svelte": "^3.45.0",
     "svelte-loader": "^3.1.2",
-    "svelte-preprocess": "^4.10.1"
+    "svelte-preprocess": "^4.10.1",
+    "svelte2tsx": "^0.5.5"
   },
   "type": "module"
 }

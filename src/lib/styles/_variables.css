@@ -1,0 +1,31 @@
+/**
+ * Do not edit directly
+ * Generated on Sun, 06 Mar 2022 17:32:58 GMT
+ */
+
+:root {
+  --color-base-gray-light: #cccccc;
+  --color-base-gray-medium: #999999;
+  --color-base-gray-dark: #111111;
+  --color-base-red: #ff0000;
+  --color-base-green: #00ff00;
+  --color-base-white: #ffffff;
+  --color-base-black: #000000;
+  --color-font-base: #ff0000;
+  --color-font-secondary: #00ff00;
+  --color-font-tertiary: #cccccc;
+  --size-50: 0.125rem;
+  --size-100: 0.25rem;
+  --size-200: 0.5rem;
+  --size-300: 0.75rem;
+  --size-400: 1rem;
+  --size-500: 1.25rem;
+  --size-600: 1.5rem;
+  --size-700: 2rem;
+  --size-800: 2.5rem;
+  --size-900: 3rem;
+  --size-font-sm: 0.75rem; /* the small size of the font */
+  --size-font-md: 1rem; /* the medium size of the font */
+  --size-font-lg: 2rem; /* the large size of the font */
+  --size-font-base: 1rem; /* the base size of the font */
+}
